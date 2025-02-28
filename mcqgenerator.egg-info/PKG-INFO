@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: mcqgenerator
+Version: 0.0.1
+Author: murugan mari
+Author-email: muruganmack98@gmail.com
+Requires-Dist: langchain_google_genai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pyPDF2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
